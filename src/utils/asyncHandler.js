@@ -9,10 +9,7 @@ export {asyncHandler}
 
 
 
-
-
-
-
+//other way of doing it using try catch syntax
 //Higher order function in js
 // const asyncHandler = (fn) => async(req,res,next) =>{
 //   try {
